@@ -6,10 +6,10 @@ if playing.lower() != "yes": #.lower is used to convert all the input to lower c
                              #so that the entries can be not case sensitive
     quit()
 
-print("Okay! Let's play :)")
+print("Okay! Let's play ")
 score = 0 # use to keep track of the score
 
-answer = input("What does CPU stand for? ")
+answer = input("What does CPU stand  ")
 if answer.lower() == "central processing unit":
     print('Correct!')
     score += 1 # increments every time the if statements is true
@@ -40,3 +40,4 @@ else:
 print("You got " + str(score) + " questions correct!") 
                    # we cannot concat str to int so we convert int score to str()
                    # we can also just use "," to add score to the str 
+
