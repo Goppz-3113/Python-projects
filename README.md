@@ -23,6 +23,17 @@ Each project reflects progress toward writing clean, modular, and well-documente
 
 To demonstrate consistent learning, problem-solving ability, and readiness to build scalable, data-driven, and real-world applications using Python.
 
+## 👨‍💻 Author
+
+**Goppz-3113**
+I’m learning Python through hands-on projects during my gap year to build logic, problem-solving, and coding skills.
+
+---
+
+⭐ *If you found these projects interesting, feel free to explore or contribute!*
+
+
+
 ---
 
 
