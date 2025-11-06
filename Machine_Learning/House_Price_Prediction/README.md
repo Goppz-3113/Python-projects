@@ -78,6 +78,7 @@ R² Score: 0.97
 
 
 📉 **Actual vs Predicted Prices**
+
 The blue dots show predictions, and the red line represents perfect predictions (y = x).  
 Closer dots to the line mean better accuracy.
 
