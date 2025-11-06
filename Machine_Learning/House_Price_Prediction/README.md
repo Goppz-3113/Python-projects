@@ -68,16 +68,18 @@ Where:
 ## 📈 Sample Results
 Example model output:
 
-Intercept (Base Price): -2768.23
-Coefficients: [184.32, 4788.90, 4788.90]
+Intercept (Base Price): -31772.160018243943
+Coefficients: [ 190.47316993  24606.15498649 -28581.38109458 ]
 
-Mean Absolute Error (MAE): 18000.20
-R² Score: 0.93
+Mean Absolute Error (MAE): 23902.74
+R² Score: 0.97
 
 
 📉 **Actual vs Predicted Prices**
 The blue dots show predictions, and the red line represents perfect predictions (y = x).  
 Closer dots to the line mean better accuracy.
+
+The plot chart is uploaded in the same folder
 
 ---
 
