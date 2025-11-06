@@ -68,10 +68,12 @@ Where:
 ## 📈 Sample Results
 Example model output:
 
-Intercept (Base Price): -31772.160018243943
+Intercept (Base Price): -31772.160018243943 
+
 Coefficients: [ 190.47316993  24606.15498649 -28581.38109458 ]
 
 Mean Absolute Error (MAE): 23902.74
+
 R² Score: 0.97
 
 
