@@ -106,19 +106,8 @@ This helps in budgeting and financial planning.
 
 ---
 
-# 📑 REPORT SECTION (Professional & Interview-Ready)
 
-## 🎯 Project Goal
-To build a complete personal finance analysis system that:
-- Cleans raw expense data  
-- Extracts useful features  
-- Performs statistical analysis  
-- Visualizes spending patterns  
-- Predicts future expenses  
 
-This is a **real-world financial analytics project** demonstrating data handling, insights generation, and machine learning forecasting.
-
----
 
 ## 📂 Data Used
 A CSV file containing:
@@ -126,8 +115,8 @@ A CSV file containing:
 - Category  
 - Amount  
 
-If the full CSV is too large for GitHub, a sample dataset is uploaded.  
-The complete dataset can be generated manually or stored locally.
+A sample dataset is uploaded.  
+The complete dataset can be generated manually.
 
 ---
 
