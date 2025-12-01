@@ -1,4 +1,4 @@
-Customer Churn Prediction using Logistic Regression
+# Customer Churn Prediction using Logistic Regression
 
 This project predicts whether a customer is likely to **churn (leave a service)** based on their demographic information, subscription type, and service usage.  
 The project uses **Python, Pandas, Seaborn, Matplotlib, and Logistic Regression** from Scikit-Learn.
